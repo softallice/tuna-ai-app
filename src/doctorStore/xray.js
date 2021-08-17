@@ -9,47 +9,47 @@ const state = reactive({
     },
     {
       id: 'id2',
-      url: '/images/xrays/2.jpg',
+      url: '/images/xrays/2.png',
       caption: '환자번호 0002'
     },
     {
       id: 'id3',
-      url: '/images/xrays/3.jpg',
+      url: '/images/xrays/3.png',
       caption: '환자번호 0003'
     },
     {
       id: 'id4',
-      url: '/images/xrays/4.jpg',
+      url: '/images/xrays/4.png',
       caption: '환자번호 0004'
     },
     {
       id: 'id5',
-      url: '/images/xrays/5.jpg',
+      url: '/images/xrays/5.png',
       caption: '환자번호 0005'
     },
     {
       id: 'id6',
-      url: '/images/xrays/6.jpg',
+      url: '/images/xrays/6.png',
       caption: '환자번호 0006'
     },
     {
       id: 'id7',
-      url: '/images/xrays/7.jpg',
+      url: '/images/xrays/7.png',
       caption: '환자번호 0007'
     },
     {
       id: 'id8',
-      url: '/images/xrays/8.jpg',
+      url: '/images/xrays/8.png',
       caption: '환자번호 0007'
     },
     {
       id: 'id9',
-      url: '/images/xrays/9.jpg',
+      url: '/images/xrays/9.png',
       caption: '환자번호 0009'
     },
     {
       id: 'id10',
-      url: '/images/xrays/10.jpg',
+      url: '/images/xrays/10.png',
       caption: '환자번호 0010'
     }
   ],
