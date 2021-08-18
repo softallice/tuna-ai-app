@@ -1,13 +1,15 @@
-# Quasar App (app)
+# Quasar AI 화면 템플릿
 
-A Quasar Framework app
+vue.js 기반으로 만든 화면 템플릿
 
-## Install the dependencies
+## Install
 ```bash
+git clone https://github.com/softallice/tuna-ai-app.git
+cd tuna-ai-app
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Quasar 개발 실행
 ```bash
 quasar dev
 ```
@@ -18,5 +20,3 @@ quasar dev
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
