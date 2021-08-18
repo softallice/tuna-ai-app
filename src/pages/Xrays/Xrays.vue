@@ -14,7 +14,11 @@
           <q-img
             :src="image.url"
             :ratio="1"
-          />
+          >
+            <div class="absolute-top text-center">
+              {{ image.caption}}
+            </div>
+          </q-img>
         </router-link>
       </div>
     </page-body>
